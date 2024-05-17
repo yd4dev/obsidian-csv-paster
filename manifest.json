@@ -1,11 +1,10 @@
 {
-	"id": "sample-plugin",
-	"name": "Sample Plugin",
-	"version": "1.0.0",
-	"minAppVersion": "0.15.0",
-	"description": "Demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
-	"fundingUrl": "https://obsidian.md/pricing",
-	"isDesktopOnly": false
+    "id": "obsidian-csv-paster",
+    "name": "Obsidian CSV Paster",
+    "version": "1.0.0",
+    "minAppVersion": "0.15.0",
+    "description": "Allows you to easily paste CSV into your note and turn it into a table",
+    "author": "Obsidian",
+    "authorUrl": "https://github.com/yd4dev",
+    "isDesktopOnly": false
 }
